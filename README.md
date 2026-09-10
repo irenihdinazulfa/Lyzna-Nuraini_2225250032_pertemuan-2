@@ -1,6 +1,7 @@
 # Pertemuan 02 - Dasar Python
 - **Nama**: Lyzna Nuraini
 - **NIM**: 2225250032
+
 - **Kelas**: 3E
 
 ## Deskripsi
